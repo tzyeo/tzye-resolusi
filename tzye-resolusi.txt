@@ -1,2 +1,4 @@
-1. belajar
+Belajar
 - coding
+1. html
+2. css
